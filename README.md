@@ -2,7 +2,7 @@
 
 A cinematic 3D spiral art gallery website built with Three.js, GLSL shaders, Lenis smooth scroll, and GSAP ScrollTrigger. Designed as a premium dark-editorial landing page for contemporary art galleries, creative studios, and portfolios.
 
-![Arcane Gallery Screenshot](screenshot.png)
+![Arcane Gallery](screenshot.png)
 
 ## Features
 
